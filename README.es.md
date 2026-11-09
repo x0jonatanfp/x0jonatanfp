@@ -1,8 +1,8 @@
 <div align="center">
 
-# jonatanfp_
+# x0jonatanfp
 
-[![Profile views](https://komarev.com/ghpvc/?username=x0-jonatanfp&color=blue&style=flat-square)]()
+[![Profile views](https://komarev.com/ghpvc/?username=x0jonatanfp&color=blue&style=flat-square)]()
 [![Website](https://img.shields.io/badge/web-x0void.com-8B5CF6?style=flat-square&logo=vercel)](https://x0void.com)
 [![Email](https://img.shields.io/badge/email-jonatanfp@x0void.com-EA4335?style=flat-square&logo=gmail)](mailto:jonatanfp@x0void.com)
 
@@ -51,7 +51,7 @@ Explorador incansable de tecnología y desarrollador full-stack. Desde gestionar
 ## Contacto
 
 [![Instagram](https://img.shields.io/badge/@x0jonatanfp-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/x0jonatanfp)
-[![X / Twitter](https://img.shields.io/badge/@jonatanfp_-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/jonatanfp_)
+[![X / Twitter](https://img.shields.io/badge/@jonatanfp23-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/jonatanfp23)
 [![Email](https://img.shields.io/badge/jonatanfp@x0void.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jonatanfp@x0void.com)
 
 ---

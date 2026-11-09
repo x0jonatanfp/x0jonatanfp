@@ -50,7 +50,7 @@ Technology explorer and full-stack developer. From self-hosting on Ubuntu to bui
 
 ## Connect
 
-[![Instagram](https://img.shields.io/badge/@jonatanfp_-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/jonatanfp_)
+[![Instagram](https://img.shields.io/badge/@x0jonatanfp-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/x0jonatanfp)
 [![X / Twitter](https://img.shields.io/badge/@jonatanfp_-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/jonatanfp_)
 [![Email](https://img.shields.io/badge/jonatanfp@x0void.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jonatanfp@x0void.com)
 

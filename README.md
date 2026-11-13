@@ -20,6 +20,17 @@
 
 Technology explorer and full-stack developer. From self-hosting on Ubuntu to building modern web apps — I work across the full stack.
 
+## Open source
+
+Small tools I built for my own server and now share. Several are meant for AI agents. Write-ups: [x0void.com/tools](https://x0void.com/tools/).
+
+| Project | What it does |
+| --- | --- |
+| [**ig-gateway**](https://github.com/x0jonatanfp/ig-gateway) | Local Instagram gateway: publishes photos, carousels, reels and stories, moderates comments and reads insights through the Instagram Graph API. Its MCP server asks for a preview and a confirmation before every write. |
+| [**tg-gateway**](https://github.com/x0jonatanfp/tg-gateway) | One Telegram bot process for all your local services: HTTP API, `tg-send` helper for scripts, update routing to webhooks and an MCP server for agents. |
+| [**fail2ban-telegram-notifier**](https://github.com/x0jonatanfp/fail2ban-telegram-notifier) | fail2ban bans and unbans in Telegram in real time, straight to the Bot API or through tg-gateway. No runtime dependencies. |
+| [**discord-terminal-presence**](https://github.com/x0jonatanfp/discord-terminal-presence) | Discord Rich Presence for the tmux pane you are attached to over SSH: which agent, which workspace, working or idle. It never publishes conversation text. |
+
 ## Tech stack
 
 <p align="center">
@@ -50,7 +61,7 @@ Technology explorer and full-stack developer. From self-hosting on Ubuntu to bui
 
 ## Connect
 
-[![Instagram](https://img.shields.io/badge/@x0jonatanfp-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/x0jonatanfp)
+[![Instagram](https://img.shields.io/badge/@x0void__-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/x0void_)
 [![X / Twitter](https://img.shields.io/badge/@jonatanfp23-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/jonatanfp23)
 [![Email](https://img.shields.io/badge/jonatanfp@x0void.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jonatanfp@x0void.com)
 

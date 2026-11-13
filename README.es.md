@@ -20,6 +20,17 @@
 
 Explorador incansable de tecnología y desarrollador full-stack. Desde gestionar servidores Ubuntu hasta crear aplicaciones web modernas — trabajo en todo el espectro.
 
+## Código abierto
+
+Herramientas pequeñas que hice para mi propio servidor y ahora comparto. Varias están pensadas para agentes de IA. Explicaciones: [x0void.com/tools](https://x0void.com/tools/).
+
+| Proyecto | Qué hace |
+| --- | --- |
+| [**ig-gateway**](https://github.com/x0jonatanfp/ig-gateway) | Pasarela local de Instagram: publica fotos, carruseles, reels e historias, modera comentarios y lee métricas con la Instagram Graph API. Su servidor MCP pide vista previa y confirmación antes de cada escritura. |
+| [**tg-gateway**](https://github.com/x0jonatanfp/tg-gateway) | Un solo proceso de bot de Telegram para todos tus servicios locales: API HTTP, helper `tg-send` para scripts, reparto de mensajes a webhooks y servidor MCP para agentes. |
+| [**fail2ban-telegram-notifier**](https://github.com/x0jonatanfp/fail2ban-telegram-notifier) | Bloqueos y desbloqueos de fail2ban en Telegram en tiempo real, directo a la Bot API o a través de tg-gateway. Sin dependencias en ejecución. |
+| [**discord-terminal-presence**](https://github.com/x0jonatanfp/discord-terminal-presence) | Rich Presence de Discord para el panel de tmux al que estás conectado por SSH: qué agente, qué espacio de trabajo y si trabaja o está parado. Nunca publica texto de la conversación. |
+
 ## Stack tecnológico
 
 <p align="center">
@@ -50,7 +61,7 @@ Explorador incansable de tecnología y desarrollador full-stack. Desde gestionar
 
 ## Contacto
 
-[![Instagram](https://img.shields.io/badge/@x0jonatanfp-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/x0jonatanfp)
+[![Instagram](https://img.shields.io/badge/@x0void__-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/x0void_)
 [![X / Twitter](https://img.shields.io/badge/@jonatanfp23-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/jonatanfp23)
 [![Email](https://img.shields.io/badge/jonatanfp@x0void.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jonatanfp@x0void.com)
 

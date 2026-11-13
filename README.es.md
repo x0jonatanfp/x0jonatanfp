@@ -22,7 +22,7 @@ Explorador incansable de tecnología y desarrollador full-stack. Desde gestionar
 
 ## Código abierto
 
-Herramientas pequeñas que hice para mi propio servidor y ahora comparto. Varias están pensadas para agentes de IA. Explicaciones: [x0void.com/hub](https://x0void.com/hub/).
+Herramientas pequeñas que hice para mi propio servidor y ahora comparto. Varias están pensadas para agentes de IA. Explicaciones: [x0void.com/lab](https://x0void.com/lab/).
 
 | Proyecto | Qué hace |
 | --- | --- |

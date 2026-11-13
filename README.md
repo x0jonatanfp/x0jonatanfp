@@ -22,7 +22,7 @@ Technology explorer and full-stack developer. From self-hosting on Ubuntu to bui
 
 ## Open source
 
-Small tools I built for my own server and now share. Several are meant for AI agents. Write-ups: [x0void.com/hub](https://x0void.com/hub/).
+Small tools I built for my own server and now share. Several are meant for AI agents. Write-ups: [x0void.com/lab](https://x0void.com/lab/).
 
 | Project | What it does |
 | --- | --- |

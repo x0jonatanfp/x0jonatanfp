@@ -20,17 +20,6 @@
 
 Technology explorer and full-stack developer. From self-hosting on Ubuntu to building modern web apps — I work across the full stack.
 
-## Open source
-
-Small tools I built for my own server and now share. Several are meant for AI agents. Write-ups: [x0void.com/lab](https://x0void.com/lab/).
-
-| Project | What it does |
-| --- | --- |
-| [**ig-gateway**](https://github.com/x0jonatanfp/ig-gateway) | Local Instagram gateway: publishes photos, carousels, reels and stories, moderates comments and reads insights through the Instagram Graph API. Its MCP server asks for a preview and a confirmation before every write. |
-| [**tg-gateway**](https://github.com/x0jonatanfp/tg-gateway) | One Telegram bot process for all your local services: HTTP API, `tg-send` helper for scripts, update routing to webhooks and an MCP server for agents. |
-| [**fail2ban-telegram-notifier**](https://github.com/x0jonatanfp/fail2ban-telegram-notifier) | fail2ban bans and unbans in Telegram in real time, straight to the Bot API or through tg-gateway. No runtime dependencies. |
-| [**discord-terminal-presence**](https://github.com/x0jonatanfp/discord-terminal-presence) | Discord Rich Presence for the tmux pane you are attached to over SSH: which agent, which workspace, working or idle. It never publishes conversation text. |
-
 ## Tech stack
 
 <p align="center">
